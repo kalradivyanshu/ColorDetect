@@ -7,6 +7,7 @@ The way it works is, python call a terminal command to capture a photo via the w
 Usage: 
 
 cd path-to-main.py
+
 python3 main.py /dev/ttyACM0 link-to-localhost-php path-to-php
 
 for eg:
